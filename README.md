@@ -25,3 +25,9 @@
 ![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Frequency%20Domain/14.jpg)
 ![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Frequency%20Domain/15.jpg)
 ![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Frequency%20Domain/16.jpg)
+
+### Segmented EEG
+
+![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Segmented%20EEG/1.jpg)
+![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Segmented%20EEG/2.jpg)
+![](https://github.com/chamara96/Neural-Signal-Processing-EEG/blob/main/Segmented%20EEG/3.jpg)
