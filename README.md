@@ -1,5 +1,7 @@
 # Neural Signal Processing EEG
 
+12 to 16 electrodes are related to motor cortex
+
 ### Used Filter
 - 7th order Butterworth Bandpass Filter
 - Low cut frequency: 5Hz
